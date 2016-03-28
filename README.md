@@ -11,6 +11,9 @@ You will need the following things properly installed on your computer.
 * [Node.js](http://nodejs.org/) (with NPM)
 * [Bower](http://bower.io/)
 * [Ember CLI](http://www.ember-cli.com/)
+
+* [Ember CLI](http://ember-cli.com/)
+>>>>>>> ae93aa758067c06d9f1981babb97e9af3ea28128
 * [PhantomJS](http://phantomjs.org/)
 
 ## Installation
@@ -46,8 +49,11 @@ Specify what it takes to deploy your app.
 ## Further Reading / Useful Links
 
 * [ember.js](http://emberjs.com/)
+<<<<<<< HEAD
 * [ember-cli](http://www.ember-cli.com/)
+=======
+* [ember-cli](http://ember-cli.com/)
+>>>>>>> ae93aa758067c06d9f1981babb97e9af3ea28128
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
